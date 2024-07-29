@@ -5,5 +5,7 @@ This app is currently experimental and only has basic functionalities. This is n
 
 
 ![alt text](https://github.com/FloexTek/Luscious-Android/blob/main/assets/screenshots/Screenshot_20240729_083953.jpg)
+
 ![alt text](https://github.com/FloexTek/Luscious-Android/blob/main/assets/screenshots/Screenshot_20240729_084130.jpg)
+
 ![alt text](https://github.com/FloexTek/Luscious-Android/blob/main/assets/screenshots/Screenshot_20240729_084140.jpg)
